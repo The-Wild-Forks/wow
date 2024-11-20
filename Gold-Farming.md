@@ -1,8 +1,6 @@
 > ## Videos:
-### - <a href="https://www.youtube.com/watch?v=KYw5QV6j1us&list=PLBaOt92Ut12nC0ed4ZYaaOdWModjlVqZi/" target="_blank">Normal Farm!</a>
-### - <a href="https://www.youtube.com/watch?v=t0C7tgmQbSU/" target="_blank">Mage Farm!</a>
-### - <a href="" target="_blank"></a>
-
+### - [Normal Farm](https://www.youtube.com/watch?v=KYw5QV6j1us&list=PLBaOt92Ut12nC0ed4ZYaaOdWModjlVqZi)
+### - [Mage Farm](https://www.youtube.com/watch?v=t0C7tgmQbSU)
 
 > ## Mine: 
 ### - Phase 1 would mean not many things are available, but I would try going for elementals 
