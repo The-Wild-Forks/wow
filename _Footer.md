@@ -1,0 +1,1 @@
+#### Join the new English [Discord Server!](https://discord.gg/Xe2m5fx67G) for WoW and stuff 🤡
